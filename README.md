@@ -1,5 +1,6 @@
 # Offensive_Security
 
- This repository is used for ethical offensive security purposes only!
+ This repository is used to automate the infrastructure needed to spin up a Command and Control server. [FOR ETHICAL PURPOSES!]
  
- More information will be added when necessary.
+ 
+ More information will be added soon.
