@@ -4,4 +4,4 @@
 
  More information will be added soon.
  
- Inspired by SparcFlow's "book Hack like a Ghost"
+ Inspired by SparcFlow's book "Hack like a Ghost"
