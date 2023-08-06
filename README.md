@@ -1,4 +1,4 @@
-# Offensive_Security
+# Automation of Offensive Security
 
  This repository is used to automate the infrastructure needed for Command and Control. [FOR ETHICAL PURPOSES!]
 
