@@ -14,7 +14,7 @@ resource "aws_default_vpc" "default" {
 # Firewall rule to allow SSH from our bouncing server IP only (ingress), outgoing traffic is allowed (egress)
 resource "aws_security_group" "SSHAdmin" {
     name            = "SSHSuperUser"
-    description     = "SSH Traffic"
+    description     = "SSH allow traffic"
     vpc_id          = "aws_default_vpc.default.id"
     ingress {
         from_port   = 22
