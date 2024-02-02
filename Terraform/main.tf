@@ -1,6 +1,5 @@
 # main.tf - 
-# Disclaimer - We use AWS to automate so be aware that this service uses your personal credit card info unless you use a burner card 
-
+# Disclaimer - We use AWS to automate so be aware that this service uses your personal credit card info unless...
 # Copy paste SSH public key
 resource "aws_key_pair" "ssh_key" {
     key_name        = "key"
