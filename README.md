@@ -4,6 +4,6 @@
 
  This project is still in development, information and code will be added continuously.
 
- **Disclaimer - The AWS API is used to automate in this example so be aware that this service uses your personal credit card info.**
+ **Disclaimer - The AWS API is used to automate in this example so be aware that this service uses your personal credit card info unless...**
  
  Inspired by SparcFlow's book "Hack like a Ghost" 
